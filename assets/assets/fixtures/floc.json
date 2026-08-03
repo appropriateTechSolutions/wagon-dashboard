@@ -1,0 +1,336 @@
+[
+{
+"model": "QHCH - Master",
+"nodes": [
+{
+"id": "21f1e287-6073-5610-bada-16f3818a9cf7",
+"level": "component",
+"name": "Side wall",
+"parent_id": null
+},
+{
+"id": "6c030d38-f62c-55b9-a15e-a5ca0e662a94",
+"level": "zone",
+"name": "LHS",
+"parent_id": "21f1e287-6073-5610-bada-16f3818a9cf7"
+},
+{
+"id": "7b860aca-ba0e-59a1-b573-7eb87e73cdc3",
+"level": "region",
+"name": "Overall",
+"parent_id": "6c030d38-f62c-55b9-a15e-a5ca0e662a94"
+},
+{
+"id": "bfae80ae-4232-5497-a817-5efdefa380c7",
+"level": "zone",
+"name": "RHS",
+"parent_id": "21f1e287-6073-5610-bada-16f3818a9cf7"
+},
+{
+"id": "e1b92fa0-2d45-5e72-89b8-3bc8897a94a2",
+"level": "region",
+"name": "Overall",
+"parent_id": "bfae80ae-4232-5497-a817-5efdefa380c7"
+},
+{
+"id": "59a3d27e-bc9c-5b29-a2f5-5f62b9650838",
+"level": "component",
+"name": "Torsion box",
+"parent_id": null
+},
+{
+"id": "f3a000af-fec0-5f5a-8e5e-ef2cc467f74f",
+"level": "zone",
+"name": "Drawbar End",
+"parent_id": "59a3d27e-bc9c-5b29-a2f5-5f62b9650838"
+},
+{
+"id": "7a39f62b-1856-529f-b4cc-980dec8b5435",
+"level": "region",
+"name": "LHS",
+"parent_id": "f3a000af-fec0-5f5a-8e5e-ef2cc467f74f"
+},
+{
+"id": "9c4decf9-4524-55da-940b-63b482e9f9a5",
+"level": "region",
+"name": "RHS",
+"parent_id": "f3a000af-fec0-5f5a-8e5e-ef2cc467f74f"
+},
+{
+"id": "ebc5bebb-5071-5cc9-83bc-5e2e60fcce76",
+"level": "region",
+"name": "Cant rail corner (left)",
+"parent_id": "f3a000af-fec0-5f5a-8e5e-ef2cc467f74f"
+},
+{
+"id": "9bdd8079-e1d4-5204-b916-6ef651c5172d",
+"level": "region",
+"name": "Cant rail corner (right)",
+"parent_id": "f3a000af-fec0-5f5a-8e5e-ef2cc467f74f"
+},
+{
+"id": "3e0286ab-e21c-5737-aeab-3a16fef92b94",
+"level": "zone",
+"name": "Coupler End",
+"parent_id": "59a3d27e-bc9c-5b29-a2f5-5f62b9650838"
+},
+{
+"id": "145b81eb-3c13-5ecb-92c2-ca99e1d09197",
+"level": "region",
+"name": "Overall",
+"parent_id": "3e0286ab-e21c-5737-aeab-3a16fef92b94"
+},
+{
+"id": "e9062ac0-60f8-531f-9984-103923fe2883",
+"level": "region",
+"name": "Cant rail corner (left)",
+"parent_id": "3e0286ab-e21c-5737-aeab-3a16fef92b94"
+},
+{
+"id": "d5ac468b-1174-55cc-97c3-4151c8651754",
+"level": "region",
+"name": "Cant rail corner (right)",
+"parent_id": "3e0286ab-e21c-5737-aeab-3a16fef92b94"
+},
+{
+"id": "2a3835f8-47c2-5845-a8b4-faa6f887d681",
+"level": "component",
+"name": "Coupler Assembly",
+"parent_id": null
+},
+{
+"id": "0ca4dd86-96dd-5d21-b147-86bf1bdc2523",
+"level": "zone",
+"name": "King Casting",
+"parent_id": "2a3835f8-47c2-5845-a8b4-faa6f887d681"
+},
+{
+"id": "45afbe5d-b353-5eb4-b818-3f691c6bc901",
+"level": "region",
+"name": "Front",
+"parent_id": "0ca4dd86-96dd-5d21-b147-86bf1bdc2523"
+},
+{
+"id": "5b432f0c-d06b-53dc-a60e-007738d7a271",
+"level": "region",
+"name": "LHS",
+"parent_id": "0ca4dd86-96dd-5d21-b147-86bf1bdc2523"
+},
+{
+"id": "80b0a51f-64f5-5bb9-ac6a-17c4f190a912",
+"level": "region",
+"name": "Rear",
+"parent_id": "0ca4dd86-96dd-5d21-b147-86bf1bdc2523"
+},
+{
+"id": "7c59ec74-9edc-5c74-8ee3-22210cd6d255",
+"level": "region",
+"name": "RHS",
+"parent_id": "0ca4dd86-96dd-5d21-b147-86bf1bdc2523"
+},
+{
+"id": "f1faf016-8a02-5c65-b2e0-cd3fa8dfc211",
+"level": "component",
+"name": "Drawbar Assembly",
+"parent_id": null
+},
+{
+"id": "cf7ec57b-bb33-5715-b080-499e61d6e1a1",
+"level": "zone",
+"name": "King Casting",
+"parent_id": "f1faf016-8a02-5c65-b2e0-cd3fa8dfc211"
+},
+{
+"id": "dbb9f6b0-053b-5549-9e84-b6cea845aa92",
+"level": "region",
+"name": "Front",
+"parent_id": "cf7ec57b-bb33-5715-b080-499e61d6e1a1"
+},
+{
+"id": "6bb83f26-90de-51af-984a-0c46fb818398",
+"level": "region",
+"name": "LHS",
+"parent_id": "cf7ec57b-bb33-5715-b080-499e61d6e1a1"
+},
+{
+"id": "d131f95f-e84e-5b2c-b655-6a8219468578",
+"level": "region",
+"name": "Rear",
+"parent_id": "cf7ec57b-bb33-5715-b080-499e61d6e1a1"
+},
+{
+"id": "41bbf31e-a066-519c-a053-a1a450f6a49c",
+"level": "region",
+"name": "RHS",
+"parent_id": "cf7ec57b-bb33-5715-b080-499e61d6e1a1"
+}
+]
+},
+{
+"model": "QHCH - Slave",
+"nodes": [
+{
+"id": "fed32705-b8e3-5321-b29f-b8693d692898",
+"level": "component",
+"name": "Side wall",
+"parent_id": null
+},
+{
+"id": "152a365c-be8a-5b24-b61e-88821c4cb735",
+"level": "zone",
+"name": "LHS",
+"parent_id": "fed32705-b8e3-5321-b29f-b8693d692898"
+},
+{
+"id": "8155204b-9fa1-5523-8098-b560ad4e651a",
+"level": "region",
+"name": "Overall",
+"parent_id": "152a365c-be8a-5b24-b61e-88821c4cb735"
+},
+{
+"id": "6c53366c-312f-54c8-9d38-62025b5d2f7b",
+"level": "zone",
+"name": "RHS",
+"parent_id": "fed32705-b8e3-5321-b29f-b8693d692898"
+},
+{
+"id": "2fd2468f-4908-536a-8c73-af1da910ae70",
+"level": "region",
+"name": "Overall",
+"parent_id": "6c53366c-312f-54c8-9d38-62025b5d2f7b"
+},
+{
+"id": "592d7707-4998-52bb-9759-3ca20108ad7b",
+"level": "component",
+"name": "Torsion box",
+"parent_id": null
+},
+{
+"id": "9b1a557a-e03f-5d0b-8b84-dc78f961144a",
+"level": "zone",
+"name": "Drawbar End",
+"parent_id": "592d7707-4998-52bb-9759-3ca20108ad7b"
+},
+{
+"id": "d93781cc-5b10-5284-a198-56b5ae3187b7",
+"level": "region",
+"name": "LHS",
+"parent_id": "9b1a557a-e03f-5d0b-8b84-dc78f961144a"
+},
+{
+"id": "938c3ef0-f41b-581f-a55c-7ccb19040190",
+"level": "region",
+"name": "RHS",
+"parent_id": "9b1a557a-e03f-5d0b-8b84-dc78f961144a"
+},
+{
+"id": "7332033a-7a10-540b-abe6-9e538bbc01b7",
+"level": "region",
+"name": "Cant rail corner (left)",
+"parent_id": "9b1a557a-e03f-5d0b-8b84-dc78f961144a"
+},
+{
+"id": "63812d65-2425-50fd-93c5-29ba00e1c1bc",
+"level": "region",
+"name": "Cant rail corner (right)",
+"parent_id": "9b1a557a-e03f-5d0b-8b84-dc78f961144a"
+},
+{
+"id": "9b8b760c-6a07-5d34-82db-8aee09d3c5b8",
+"level": "zone",
+"name": "Coupler End",
+"parent_id": "592d7707-4998-52bb-9759-3ca20108ad7b"
+},
+{
+"id": "ba766807-e64f-57f8-93ff-0d65b1447009",
+"level": "region",
+"name": "Overall",
+"parent_id": "9b8b760c-6a07-5d34-82db-8aee09d3c5b8"
+},
+{
+"id": "9d97f61f-48b9-5763-b95e-9c88c5a93a77",
+"level": "region",
+"name": "Cant rail corner (left)",
+"parent_id": "9b8b760c-6a07-5d34-82db-8aee09d3c5b8"
+},
+{
+"id": "24013f3e-dfd0-564e-9f6e-56d04d3142eb",
+"level": "region",
+"name": "Cant rail corner (right)",
+"parent_id": "9b8b760c-6a07-5d34-82db-8aee09d3c5b8"
+},
+{
+"id": "c2d2152f-70d2-5e5e-9579-966187fb9612",
+"level": "component",
+"name": "Coupler Assembly",
+"parent_id": null
+},
+{
+"id": "e3b45aa6-3a29-5192-8094-ab2bb52b03d9",
+"level": "zone",
+"name": "King Casting",
+"parent_id": "c2d2152f-70d2-5e5e-9579-966187fb9612"
+},
+{
+"id": "523b7d5a-450e-5707-84ad-eee8223bbf15",
+"level": "region",
+"name": "Front",
+"parent_id": "e3b45aa6-3a29-5192-8094-ab2bb52b03d9"
+},
+{
+"id": "91697085-e83b-5e06-92b6-94485854c208",
+"level": "region",
+"name": "LHS",
+"parent_id": "e3b45aa6-3a29-5192-8094-ab2bb52b03d9"
+},
+{
+"id": "b238ef45-67c2-5bf2-bbfd-55736c669478",
+"level": "region",
+"name": "Rear",
+"parent_id": "e3b45aa6-3a29-5192-8094-ab2bb52b03d9"
+},
+{
+"id": "c29b91ce-a6a4-5353-ac36-cdd1f9ec1aca",
+"level": "region",
+"name": "RHS",
+"parent_id": "e3b45aa6-3a29-5192-8094-ab2bb52b03d9"
+},
+{
+"id": "f6d93177-9914-5a46-a6df-6bebae0825e2",
+"level": "component",
+"name": "Drawbar Assembly",
+"parent_id": null
+},
+{
+"id": "389377e9-fd90-51b6-a212-3873dc63a0b9",
+"level": "zone",
+"name": "King Casting",
+"parent_id": "f6d93177-9914-5a46-a6df-6bebae0825e2"
+},
+{
+"id": "e7daef05-a94b-5434-822b-7708ddb4942e",
+"level": "region",
+"name": "Front",
+"parent_id": "389377e9-fd90-51b6-a212-3873dc63a0b9"
+},
+{
+"id": "5cd4bb0f-ecc0-5f21-bfb6-fc76497a6627",
+"level": "region",
+"name": "LHS",
+"parent_id": "389377e9-fd90-51b6-a212-3873dc63a0b9"
+},
+{
+"id": "705c65dc-84fb-5f38-a37c-1c6e5f071c91",
+"level": "region",
+"name": "Rear",
+"parent_id": "389377e9-fd90-51b6-a212-3873dc63a0b9"
+},
+{
+"id": "9347ae6d-1482-541c-9f5a-3dd0f1b3a764",
+"level": "region",
+"name": "RHS",
+"parent_id": "389377e9-fd90-51b6-a212-3873dc63a0b9"
+}
+]
+}
+]
