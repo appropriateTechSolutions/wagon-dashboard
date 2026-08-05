@@ -1,0 +1,218 @@
+[
+{
+"defect_id": "70cfd620-df8d-5f31-9a7c-a1dbd6bf1b51",
+"seq": 1,
+"status": "new",
+"condition": "minor",
+"crack_code": "S100LF6",
+"inspection_id": "aa4814d2-0b4f-57e4-8868-2f392eea01d1",
+"inspection_date": "2026-01-28"
+},
+{
+"defect_id": "70cfd620-df8d-5f31-9a7c-a1dbd6bf1b51",
+"seq": 2,
+"status": "no_change",
+"condition": "minor",
+"crack_code": "S100LF6",
+"inspection_id": "ce7a76d2-9967-547d-baa7-0a6bc3c791ef",
+"inspection_date": "2026-01-28"
+},
+{
+"defect_id": "70cfd620-df8d-5f31-9a7c-a1dbd6bf1b51",
+"seq": 3,
+"status": "repaired",
+"condition": "good",
+"crack_code": "S100LF6",
+"inspection_id": "618fe89f-bb36-5199-9982-e34cc6e08098",
+"inspection_date": "2026-03-07"
+},
+{
+"defect_id": "7f3c1c69-e0c4-55b2-84ab-be42e9beea7b",
+"seq": 1,
+"status": "repaired",
+"condition": "good",
+"crack_code": "S100LF1",
+"inspection_id": "ce7a76d2-9967-547d-baa7-0a6bc3c791ef",
+"inspection_date": "2026-01-28"
+},
+{
+"defect_id": "7f3c1c69-e0c4-55b2-84ab-be42e9beea7b",
+"seq": 2,
+"status": "new",
+"condition": "severe",
+"crack_code": "S100LF1",
+"inspection_id": "618fe89f-bb36-5199-9982-e34cc6e08098",
+"inspection_date": "2026-03-07"
+},
+{
+"defect_id": "405f5810-e4cd-5f17-b19a-54a605cab994",
+"seq": 1,
+"status": "new",
+"condition": "minor",
+"crack_code": "S30TP12",
+"inspection_id": "618fe89f-bb36-5199-9982-e34cc6e08098",
+"inspection_date": "2026-03-07"
+},
+{
+"defect_id": "405f5810-e4cd-5f17-b19a-54a605cab994",
+"seq": 2,
+"status": "missed",
+"condition": "minor",
+"crack_code": "S30P12",
+"inspection_id": "fd23a4e1-b349-5339-98f4-4f51f911513e",
+"inspection_date": "2026-03-09"
+},
+{
+"defect_id": "41f0905c-0e29-52ff-b0fc-d07304979e56",
+"seq": 1,
+"status": "new",
+"condition": "severe",
+"crack_code": "V30LP",
+"inspection_id": "a36c8fcc-26df-5c32-92cf-344c74784f52",
+"inspection_date": "2026-02-06"
+},
+{
+"defect_id": "a0cd257f-658d-5b8b-adb7-ffe7733299e9",
+"seq": 1,
+"status": "new",
+"condition": "severe",
+"crack_code": "S80TP7",
+"inspection_id": "9a23b305-cb39-5be7-b7eb-4ce5b7840522",
+"inspection_date": "2026-02-18"
+},
+{
+"defect_id": "d46fbd36-d8cd-5439-a6f4-6640c14e48b8",
+"seq": 1,
+"status": "new",
+"condition": "minor",
+"crack_code": "S80LF8",
+"inspection_id": "d0f7924d-8324-5e94-9509-f61c24b7e6ba",
+"inspection_date": null
+},
+{
+"defect_id": "fdd8bea5-0d49-5124-8e8b-054da3edcc14",
+"seq": 1,
+"status": "missed",
+"condition": null,
+"crack_code": "M0-Excessively Dirty",
+"inspection_id": "fd23a4e1-b349-5339-98f4-4f51f911513e",
+"inspection_date": "2026-03-09"
+},
+{
+"defect_id": "fdd8bea5-0d49-5124-8e8b-054da3edcc14",
+"seq": 2,
+"status": "inspected",
+"condition": "good",
+"crack_code": "0",
+"inspection_id": "a5c83438-2d80-582f-9ba1-af30c6fe8061",
+"inspection_date": "2026-04-14"
+},
+{
+"defect_id": "d7bcf08d-6bce-54ce-91b0-3f4f71ea310a",
+"seq": 1,
+"status": "new",
+"condition": "critical",
+"crack_code": "V300LF100",
+"inspection_id": "cc28a32f-e169-59dd-a652-8add51b9f528",
+"inspection_date": "2026-02-06"
+},
+{
+"defect_id": "12f580f0-c8e6-5364-808a-59c299b57ac3",
+"seq": 1,
+"status": "inspected",
+"condition": "good",
+"crack_code": "0",
+"inspection_id": "a5c83438-2d80-582f-9ba1-af30c6fe8061",
+"inspection_date": "2026-04-14"
+},
+{
+"defect_id": "a29f3dc8-008e-572d-84f7-d9d514b7b09a",
+"seq": 1,
+"status": "inspected",
+"condition": "good",
+"crack_code": "0",
+"inspection_id": "a5c83438-2d80-582f-9ba1-af30c6fe8061",
+"inspection_date": "2026-04-14"
+},
+{
+"defect_id": "452396ef-b4ac-55df-ba87-0572e535251a",
+"seq": 1,
+"status": "new",
+"condition": "minor",
+"crack_code": "S95LF6",
+"inspection_id": "a5c83438-2d80-582f-9ba1-af30c6fe8061",
+"inspection_date": "2026-04-14"
+},
+{
+"defect_id": "452396ef-b4ac-55df-ba87-0572e535251a",
+"seq": 2,
+"status": "grown",
+"condition": "severe",
+"crack_code": "S95L150F6",
+"inspection_id": "c400ea01-f55d-57d0-81ab-353453031fe9",
+"inspection_date": "2026-04-14"
+},
+{
+"defect_id": "16ffa244-e804-5ce3-a0a0-19160c28bdc1",
+"seq": 1,
+"status": "inspected",
+"condition": "good",
+"crack_code": "0",
+"inspection_id": "a5c83438-2d80-582f-9ba1-af30c6fe8061",
+"inspection_date": "2026-04-14"
+},
+{
+"defect_id": "51ab4b1d-6268-5968-a49a-ac40f77e948c",
+"seq": 1,
+"status": "new",
+"condition": "minor",
+"crack_code": "S50LF6",
+"inspection_id": "a5c83438-2d80-582f-9ba1-af30c6fe8061",
+"inspection_date": "2026-04-14"
+},
+{
+"defect_id": "51ab4b1d-6268-5968-a49a-ac40f77e948c",
+"seq": 2,
+"status": "repaired",
+"condition": "good",
+"crack_code": "S50LF6",
+"inspection_id": "c400ea01-f55d-57d0-81ab-353453031fe9",
+"inspection_date": "2026-04-14"
+},
+{
+"defect_id": "fd02e212-fe46-5092-a3cc-805afb588efe",
+"seq": 1,
+"status": "inspected",
+"condition": "good",
+"crack_code": "0",
+"inspection_id": "c400ea01-f55d-57d0-81ab-353453031fe9",
+"inspection_date": "2026-04-14"
+},
+{
+"defect_id": "f2a93dbe-75d1-5a12-9f3b-e7d68976f6b6",
+"seq": 1,
+"status": "new",
+"condition": "severe",
+"crack_code": "V120M50P50",
+"inspection_id": "c400ea01-f55d-57d0-81ab-353453031fe9",
+"inspection_date": "2026-04-14"
+},
+{
+"defect_id": "bdd3c613-9443-561b-9f0e-05005cef1c5d",
+"seq": 1,
+"status": "inspected",
+"condition": "good",
+"crack_code": "0",
+"inspection_id": "78d26e7d-9f3e-57c9-a07f-6ce7439bcf4f",
+"inspection_date": "2026-07-06"
+},
+{
+"defect_id": "a4838fc4-d8d0-50ad-9a72-344ad8abc3e8",
+"seq": 1,
+"status": "new",
+"condition": "minor",
+"crack_code": "S50TP12",
+"inspection_id": "d9bbd969-047e-57ad-963f-8454e326e48f",
+"inspection_date": "2026-06-11"
+}
+]
