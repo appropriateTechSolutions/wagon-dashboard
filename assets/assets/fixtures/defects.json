@@ -1,6 +1,6 @@
 [
 {
-"inspection_id": "618fe89f-bb36-5199-9982-e34cc6e08098",
+"inspection_id": "aa4814d2-0b4f-57e4-8868-2f392eea01d1",
 "defect_id": "70cfd620-df8d-5f31-9a7c-a1dbd6bf1b51",
 "defect_no": 1,
 "numbering_class": "defect",
@@ -17,7 +17,7 @@
 "y": 6.8489
 },
 {
-"inspection_id": "618fe89f-bb36-5199-9982-e34cc6e08098",
+"inspection_id": "ce7a76d2-9967-547d-baa7-0a6bc3c791ef",
 "defect_id": "7f3c1c69-e0c4-55b2-84ab-be42e9beea7b",
 "defect_no": 2,
 "numbering_class": "defect",
@@ -34,7 +34,7 @@
 "y": 25.1109
 },
 {
-"inspection_id": "fd23a4e1-b349-5339-98f4-4f51f911513e",
+"inspection_id": "618fe89f-bb36-5199-9982-e34cc6e08098",
 "defect_id": "405f5810-e4cd-5f17-b19a-54a605cab994",
 "defect_no": 3,
 "numbering_class": "defect",
@@ -102,7 +102,7 @@
 "y": 18.8889
 },
 {
-"inspection_id": "a5c83438-2d80-582f-9ba1-af30c6fe8061",
+"inspection_id": "fd23a4e1-b349-5339-98f4-4f51f911513e",
 "defect_id": "fdd8bea5-0d49-5124-8e8b-054da3edcc14",
 "defect_no": null,
 "numbering_class": "defect",
@@ -170,7 +170,7 @@
 "y": null
 },
 {
-"inspection_id": "c400ea01-f55d-57d0-81ab-353453031fe9",
+"inspection_id": "a5c83438-2d80-582f-9ba1-af30c6fe8061",
 "defect_id": "452396ef-b4ac-55df-ba87-0572e535251a",
 "defect_no": 4,
 "numbering_class": "defect",
@@ -204,7 +204,7 @@
 "y": null
 },
 {
-"inspection_id": "c400ea01-f55d-57d0-81ab-353453031fe9",
+"inspection_id": "a5c83438-2d80-582f-9ba1-af30c6fe8061",
 "defect_id": "51ab4b1d-6268-5968-a49a-ac40f77e948c",
 "defect_no": 5,
 "numbering_class": "defect",
