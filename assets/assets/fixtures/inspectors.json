@@ -6,7 +6,9 @@
 "position": "Reliability",
 "company": "Aurizon",
 "site": "Hexham",
-"site_id": "d0fef20c-4efb-54b9-ac34-7f64b130ebcd"
+"site_id": "d0fef20c-4efb-54b9-ac34-7f64b130ebcd",
+"active": true,
+"user_category": "inspector"
 },
 {
 "id": "2ba5067d-f318-5c26-a8aa-9814228dc78a",
@@ -15,7 +17,9 @@
 "position": "Reliability",
 "company": "Aurizon",
 "site": "Hexham",
-"site_id": "d0fef20c-4efb-54b9-ac34-7f64b130ebcd"
+"site_id": "d0fef20c-4efb-54b9-ac34-7f64b130ebcd",
+"active": true,
+"user_category": "inspector"
 },
 {
 "id": "e86ab017-377e-58a0-93a8-741ddfb3470b",
@@ -24,7 +28,9 @@
 "position": "Reliability",
 "company": "Aurizon",
 "site": "Hexham",
-"site_id": "d0fef20c-4efb-54b9-ac34-7f64b130ebcd"
+"site_id": "d0fef20c-4efb-54b9-ac34-7f64b130ebcd",
+"active": true,
+"user_category": "inspector"
 },
 {
 "id": "adbd147f-fc63-5f2a-99a3-b0c524819c99",
@@ -33,7 +39,9 @@
 "position": "Reliability",
 "company": "Aurizon",
 "site": "Hexham",
-"site_id": "d0fef20c-4efb-54b9-ac34-7f64b130ebcd"
+"site_id": "d0fef20c-4efb-54b9-ac34-7f64b130ebcd",
+"active": true,
+"user_category": "inspector"
 },
 {
 "id": "29d20c29-f7c4-5f7b-aff8-14ab6cb0bb4f",
@@ -42,6 +50,20 @@
 "position": "Reliability",
 "company": "Wagon Manager",
 "site": "Wagon Site",
-"site_id": "fc761bf1-fd09-50de-b2a4-8c49f6c7f1a9"
+"site_id": "fc761bf1-fd09-50de-b2a4-8c49f6c7f1a9",
+"active": true,
+"user_category": "inspector"
+},
+{
+"id": "2564b910-af09-5a14-9f37-a28ee8c98306",
+"first_name": "Demo",
+"last_name": "Reliability",
+"position": "Reliability engineer (demo)",
+"company": "Aurizon",
+"site": "Hexham",
+"site_id": "d0fef20c-4efb-54b9-ac34-7f64b130ebcd",
+"active": true,
+"user_category": "reliability",
+"email": "reliability.demo@example.com"
 }
 ]
