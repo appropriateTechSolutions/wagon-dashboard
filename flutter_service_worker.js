@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "6523307ad29b975cc7d3909a2e7bd2b7",
+const RESOURCES = {"flutter_bootstrap.js": "8a21a545e91881b495ef6290f5e6807b",
 "version.json": "4ff419d961602456dc8f1327e23cba56",
 "index.html": "82fbb18a1de564f062d30934ee8f2c48",
 "/": "82fbb18a1de564f062d30934ee8f2c48",
-"main.dart.js": "1ed00adeebd7520d5d4d192b1fd24c60",
+"main.dart.js": "65a60aa3a700d5831750f962186d891b",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -22,7 +22,7 @@ const RESOURCES = {"flutter_bootstrap.js": "6523307ad29b975cc7d3909a2e7bd2b7",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "0c35eab8f7c3e7aaa2e0de52730777f6",
-"assets/fonts/MaterialIcons-Regular.otf": "339b0437ed6b018b8aed96126ebb1d87",
+"assets/fonts/MaterialIcons-Regular.otf": "4c73b3b36074e3519a8264d6961795bf",
 "assets/assets/drawings/QHCH%2520Wagon%2520-%2520Master-Coupler%2520Assembly-King%2520Casting-Map.jpg": "ab9ded1d7bbeb4c95a2a29b0317e32c2",
 "assets/assets/drawings/QHCH%2520Wagon%2520-%2520Slave-Torsion%2520box-Drawbar%2520End-RHS.jpg": "76576a4aa64ba2157e293a28b57bf12b",
 "assets/assets/drawings/QHCH%2520Wagon%2520-%2520Master-Torsion%2520box-Drawbar%2520End-RHS.jpg": "d63fe177ee96764ff58307deadfe4315",
