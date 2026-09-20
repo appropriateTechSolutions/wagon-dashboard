@@ -11,10 +11,10 @@
 "model_name": "QHCH - Master",
 "site": "Hexham",
 "company": "Aurizon",
-"defect_count": 0,
+"defect_count": 1,
 "damage_count": 0,
 "missed_count": 0,
-"worst_rank": null
+"worst_rank": 2
 },
 {
 "id": "aa4814d2-0b4f-57e4-8868-2f392eea01d1",
@@ -28,10 +28,10 @@
 "model_name": "QHCH - Master",
 "site": "Hexham",
 "company": "Aurizon",
-"defect_count": 0,
+"defect_count": 1,
 "damage_count": 0,
 "missed_count": 0,
-"worst_rank": null
+"worst_rank": 4
 },
 {
 "id": "618fe89f-bb36-5199-9982-e34cc6e08098",
@@ -45,10 +45,10 @@
 "model_name": "QHCH - Master",
 "site": "Hexham",
 "company": "Aurizon",
-"defect_count": 2,
+"defect_count": 1,
 "damage_count": 0,
 "missed_count": 0,
-"worst_rank": 2
+"worst_rank": 3
 },
 {
 "id": "e05f1e2b-8a60-534c-a9a2-c3184fb83178",
@@ -524,7 +524,7 @@
 "defect_count": 1,
 "damage_count": 0,
 "missed_count": 0,
-"worst_rank": 3
+"worst_rank": 4
 },
 {
 "id": "717744fb-f6e7-5454-ab4b-18cf7c94cc45",
@@ -572,10 +572,10 @@
 "model_name": "QHCH - Master",
 "site": "Hexham",
 "company": "Aurizon",
-"defect_count": 4,
+"defect_count": 5,
 "damage_count": 0,
 "missed_count": 0,
-"worst_rank": 4
+"worst_rank": 2
 },
 {
 "id": "1c047674-73c8-5804-8152-094041a618f8",
@@ -606,7 +606,7 @@
 "model_name": "QHCH - Master",
 "site": "Hexham",
 "company": "Aurizon",
-"defect_count": 4,
+"defect_count": 2,
 "damage_count": 0,
 "missed_count": 0,
 "worst_rank": 2
